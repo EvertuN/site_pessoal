@@ -1,0 +1,17 @@
+h1{
+    background: grey;
+    border: 1px solid black;
+    width: 70%;
+    margin: 0 auto;
+}
+p{
+   font-size: 18pt;
+}
+.mult3{
+    font-size: 24pt;
+    color: grey
+}
+#especial{
+    background-color: silver;
+    color: white
+}

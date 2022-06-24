@@ -1,0 +1,14 @@
+li {
+    border: 2px solid black;
+    width: 400px;
+}
+#ul1 {
+    list-style-type: square;
+    list-style-position: inside;
+}
+#ul2 {
+    list-style-image: url('https://images.pexels.com/photos/1921336/pexels-photo-1921336.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+}
+ol {
+    list-style-type: upper-roman;
+}
