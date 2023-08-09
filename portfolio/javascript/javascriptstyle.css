@@ -53,7 +53,7 @@ nav .menu{
   color: #F5A302;
 }
 .img{
-  background: url('sep09.jpg')no-repeat;
+  background: url('../../img/sep09.jpg')no-repeat;
   width: 100%;
   height: 100vh;
   background-size: cover;
